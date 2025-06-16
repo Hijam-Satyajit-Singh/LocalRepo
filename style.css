@@ -1,3 +1,12 @@
 p{
     color:red;
 }
+.color{
+    background-color: red;
+    height: 100px;
+    width: 100px;
+    border:2px solid black;
+}
+.color:hover{
+    background-color: green;
+}
